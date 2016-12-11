@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"featu",
+				"feature_format"
+			],
+			[
+				"true",
+				"true_positives"
+			],
+			[
+				"false",
+				"false_positives"
+			],
+			[
+				"max_",
+				"max_leaf_nodes"
+			],
+			[
+				"feature",
+				"feature_selection"
+			],
+			[
+				"features",
+				"features"
+			],
+			[
+				"data",
+				"data_dict"
+			],
+			[
+				"re",
+				"relevance_list"
+			],
+			[
+				"poi",
+				"poi_email"
+			],
+			[
+				"po",
+				"poi_email_user"
+			],
+			[
+				"poi_email",
+				"poi_email"
+			],
+			[
+				"poi_",
+				"poi_email_count"
+			],
+			[
+				"from",
+				"from_poi"
+			],
+			[
+				"cross",
+				"cross_validation"
+			],
+			[
+				"py",
+				"pyplot"
+			],
+			[
+				"total",
+				"total_stock_value"
+			],
+			[
+				"NaN",
+				"NaN_Value_Count"
+			],
+			[
+				"total_paymen",
+				"total_payments_nan"
+			],
+			[
+				"from_po",
+				"from_poi_to_this_person_nan"
+			],
+			[
+				"salary",
+				"salary_nan"
+			],
+			[
+				"pca",
+				"pcaTrainAndPredict"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"import",
+				"importance"
+			],
+			[
+				"feature_i",
+				"feature_importance"
+			],
+			[
+				"get",
+				"get_feature_names"
+			],
+			[
+				"word",
+				"word_data"
+			],
+			[
+				"stock",
+				"stock_options"
+			],
+			[
+				"kmeans",
+				"k-means"
+			],
+			[
+				"out",
+				"outliers_bonus"
+			],
+			[
+				"net",
+				"net_worths"
+			],
+			[
+				"coef_",
+				"coef_attribute"
+			],
+			[
+				"paym",
+				"payments_nan"
+			],
+			[
+				"time",
+				"time0"
+			],
+			[
+				"u",
+				"u0144ska"
+			],
+			[
+				"st_",
+				"st_types"
+			],
+			[
+				"street_type",
+				"street_type"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"is",
+				"isPartOf"
+			],
+			[
+				"binomiala",
+				"binomialAuthority_label"
+			],
+			[
+				"parse",
+				"parse_array"
+			],
+			[
+				"temp_",
+				"temp_array"
+			],
+			[
+				"temp",
+				"temp_dict"
+			],
+			[
+				"new",
+				"new_field"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"ma",
+				"manufacturer"
+			],
+			[
+				"audit",
+				"audit_file"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Swain/Desktop/django"
+	],
+	"file_history":
+	[
+		"/anaconda/envs/django/trydjango_110.sublime-workspace",
+		"/anaconda/envs/django/trydjango_110.sublime-project",
+		"/Users/Swain/Desktop/django/trydjango_110.sublime-workspace",
+		"/Users/Swain/Desktop/Breakfast/setup.py",
+		"/Users/Swain/Desktop/GUI/setup.py",
+		"/Users/Swain/Desktop/GUI/GUI_2.py",
+		"/Users/Swain/Desktop/GUI/GUI.py",
+		"/Users/Swain/Desktop/recursive/setup.py",
+		"/Users/Swain/anaconda/lib/python3.5/site-packages/py2app-0.10/examples/Tkinter/hello_tk/setup.py",
+		"/Users/Swain/anaconda/lib/python3.5/site-packages/py2app-0.10/examples/Tkinter/hello_tk/hello.py",
+		"/Users/Swain/Desktop/recursive.py",
+		"/Users/Swain/Desktop/n.py",
+		"/Users/Swain/Desktop/SuperDataScience/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py",
+		"/Users/Swain/Desktop/djviews/djviews.sublime-project",
+		"/Users/Swain/Desktop/Udacity/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/preparing_for_database.py",
+		"/Users/Swain/Desktop/Udacity/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/mapparser.py",
+		"/Users/Swain/Desktop/Udacity/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/test.py",
+		"/Users/Swain/Desktop/python_course /Basketball+Analysis.py",
+		"/Users/Swain/Desktop/python_programming_course /Basketball+Analysis.py",
+		"/Users/Swain/Desktop/python_programming_course /Arrays in Python.ipynb",
+		"/Users/Swain/Desktop/website/BUILD A SMALL BUSINESS WEBSITE.html",
+		"/Users/Swain/Desktop/Anaconda3-4.2.0-MacOSX-x86_64.sh",
+		"/Users/Swain/Desktop/website/BUILD A RESPONSIVE BLOG THEME.html",
+		"/Users/Swain/Desktop/website/BUILD A PERSONAL WEBSITE.html",
+		"/Users/Swain/Desktop/website/third.html",
+		"/Users/Swain/Desktop/website/second.html",
+		"/Users/Swain/Desktop/website/first.html",
+		"/Users/Swain/Desktop/test.py",
+		"/Users/Swain/Desktop/A2-2sql.sql",
+		"/Users/Swain/Desktop/untitled.sql",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/tester.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/poi_id.py",
+		"/Users/Swain/Desktop/python.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/poi_email_addresses.py",
+		"/Users/Swain/Desktop/python",
+		"/Volumes/Host/anaconda/Navigator.app/Contents/MacOS/run.sh",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/create_new_features.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/P5_Enron/plot.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/outliers/enron_outliers.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/Audit.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/feature_selection/find_signature.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/tools/feature_format.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/k_means/k_means_cluster.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/plot.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/pca/eigenfaces.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/evaluation/evaluate_poi_identifier.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/outliers/outlier_cleaner.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/reader.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/poi_flag_email.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/datasets_questions/explore_enron_data.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/outliers/outlier_removal_regression.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/text_learning/vectorize_text.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/tools/email_preprocess.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/tools/parse_out_email_text.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/regression/finance_regression.py",
+		"/Users/Swain/Desktop/This is 1st line.txt",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/choose_your_own/class_vis.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/choose_your_own/prep_terrain_data.py",
+		"/Users/Swain/Desktop/Data_Analyst/Intro to data science/unwind.py",
+		"/Users/Swain/Desktop/Data_Analyst/Intro to data science/array.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/P3_3/Audit.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/choose_your_own/knn.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/svm/svm_author_id.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/final_project/poi_names.txt",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/datasets_questions/poi_email_addresses.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/decision_tree/dt_author_id.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/choose_your_own/random_forest.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/choose_your_own/adaboost.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/choose_your_own/test_adaboost.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/choose_your_own/your_algorithm.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/svm/svm_author_id_rbf.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/svm/smaller_training_set.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/decision_tree/features_count.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/naive_bayes/nb_author_id.py",
+		"/Users/Swain/Desktop/Data_Analyst/Machine_Learning/tools/startup.py",
+		"/Users/Swain/node_modules/jsdom/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/package.json",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/hualien.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/hualien_taiwan.osm",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/dublin_ireland.osm.json",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/dublin_ireland.osm",
+		"/Users/Swain/Desktop/Data_Analyst/P2/Cap.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/hualien_taiwan.osm.json",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/preparing_for_database.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/mapparser.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/test.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_5_Analyzing_Data/05-Using_group/tweet_sources.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_6_Case_Study/iterative_parsing.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/dublin_ireland.csv",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_5_Problem_Set/02-Region_Cities/region.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_5_Problem_Set/01-Most_Common_City_Name/city.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Problem_Set/03-Updating_Schema/update.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Problem_Set/01-Preparing_Data/processing.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/P3_Wrangle_Openstreetmap_data/dublin_ireland.json",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_6_Case_Study/example.osm.xml",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_5_Analyzing_Data/16-Same_Operator/population.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_5_Analyzing_Data/14-Using_push/push.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_5_Analyzing_Data/12-Using_unwind/unwind.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_5_Analyzing_Data/10-Using_match_and_project/followers.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Problem_Set/02-Inserting_into_DB/dbinsert.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Problem_Set/01-Preparing_Data/arachnid.csv",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Working_with_MongoDB/25-Dot_Notation/dot_find.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Working_with_MongoDB/23-Using_$in_Operator/find_cars.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Working_with_MongoDB/18-Range_Queries/find_cities.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Working_with_MongoDB/14-Inserting_Multiple_Documents/autos.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Working_with_MongoDB/14-Inserting_Multiple_Documents/insert.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Working_with_MongoDB/10-Finding_Porsche/find_porsche.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_4_Working_with_MongoDB/05-Kicking_the_tires_on_MongoDB/cities.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_3_Problem_Set/06-Crossfield_Auditing/location.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_3_Problem_Set/05-Fixing_Name/name.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_3_Problem_Set/03-Fixing_the_Area/area.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data_Wrangling_with_MongoDB/3_master/Lesson_3_Problem_Set/01_Auditing_Data_Quality/audit.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data Wrangling with MongoDB/3-master/Lesson_3_Problem_Set/01-Auditing_Data_Quality/audit.py",
+		"/Users/Swain/Desktop/Data_Analyst/Data Wrangling with MongoDB/3-master/Lesson_3_Problem_Set/03-Fixing_the_Area/area.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"case",
+			"break",
+			"item",
+			"append",
+			"poi",
+			"Dublin",
+			"Dublin 02",
+			"D02",
+			"postcode",
+			"u0144ska",
+			"u'Go\\u015bcieszy\\u0144ska'",
+			"Татарский переулок",
+			"'Go",
+			"'Go\\u015bcieszy\\u0144ska'",
+			"u'Go\\u015bcieszy\\u0144ska'",
+			"Gables",
+			"St.",
+			"Ave.",
+			"Ave",
+			"\"address\"",
+			"natural",
+			"military",
+			"building",
+			"amenity",
+			"\"way\"",
+			"way",
+			"\"id\"",
+			"id",
+			"Ave.",
+			"Ave",
+			"st.",
+			"wagamama",
+			"mao",
+			"kingseven",
+			"queen of tarts",
+			"restaurant",
+			"kimchi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

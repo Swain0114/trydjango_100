@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Kitsirr</title>
+</head>
+
+<body>
+	<div style='width: 800px; margin:0 auto;'>
+		<h1>{{ title }}</h1>
+		<form method="POST" action="."> {% csrf_token %}
+			<!-- <input type="text" name="URL" placeholder="shorten your URL"> -->
+			{{ form.as_p }}
+			<input type="submit" value="Shorten">
+		</form>
+	</div>	
+</body>
+
+</html>

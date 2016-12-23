@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django_hosts',
     # customer app
     'shortener',
+    'analytics',
 ]
 
 MIDDLEWARE = [
@@ -59,13 +60,14 @@ ROOT_URLCONF = 'trydjango_100.urls'
 ROOT_HOSTCONF = 'trydjango_100.hosts'
 DEFAULT_HOST = 'www'
 DEFAULT_REDIRECT_URL = "http://www.kitsirr.com:8000"
+PARENT_HOST = "kitsirr.com:8000"
 
 
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR,"template")],
-        # 'DIRS' : [],
+        # 'DIRS': [os.path.join(BASE_DIR,"template")],
+        'DIRS' : [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

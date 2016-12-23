@@ -1,15 +1,18 @@
 from django.http import HttpResponse, HttpResponseRedirect
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, get_object_or_404, Http404
 from django.views import View
+
+from analytics.models import ClickEvent
+
 from .models import shortener
 from .forms import SubmitUrlForm
 
 # Create your views here.
 
-def home_view_fbv(request, *args, **kwargs):
-	if request.method == "POST":
-		print(request.POST)
-	return render(request, "shortener/home.html", context)
+# def home_view_fbv(request, *args, **kwargs):
+# 	if request.method == "POST":
+# 		print(request.POST)
+# 	return render(request, "shortener/home.html", context)
 
 class HomeView(View):
 	def get(self, request, *args, **kwargs):
@@ -40,10 +43,13 @@ class HomeView(View):
 				template = "shortener/already-exists.html"
 		return render(request, template , context)
 
-class shortCBView(View): #  class based view
+class URLRedirectView(View): #  class based view
 	def get(self, request, shortcode=None, *args, **kwargs):
-		objs = get_object_or_404(shortener, shortcode=shortcode)
-		return HttpResponseRedirect(objs.url)
+		qs = shortener.objects.filter(shortcode__iexact=shortcode)
+		if qs.count() != 1 and not qs.exists():
+			raise Http404
+		obj = qs.first()
+		return HttpResponseRedirect(obj.url)
 
 
 

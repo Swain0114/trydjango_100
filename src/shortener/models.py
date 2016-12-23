@@ -1,10 +1,12 @@
 from django.conf import settings
 from django.db import models
-from .utils import code_generator , create_shortcode
 
+# from django.core.urlresolvers import reverse
+from django_hosts.resolvers import reverse
+# Create your models here.
+from .utils import code_generator , create_shortcode
 from .validators import validate_url, validate_dot_com
 
-# Create your models here.
 SHORTCODE_MAX = getattr(settings, "SHORTCODE_MAX", 15)
 
 class ShortenerManager(models.Manager):
@@ -31,11 +33,9 @@ class shortener(models.Model):
     update 	  = models.DateTimeField(auto_now=True)  # every time model is saved
     timestamp = models.DateTimeField(auto_now_add=True)  # when model was created
     active  = models.BooleanField(default=True)
-    # empty_datetime = models.DateTimeField(auto_now = False, auto_now_add = False)
-    # shortcode = models.CharField(max_length = 15, null = True) empty in database is ok
-    # shortcode = models.CharField(max_length = 15, default = 'cfedefaultshortcode')
+    
     objects = ShortenerManager()
-    # some_random = ShortenerManager()
+    
 
     def save(self, *args, **kwargs):
         if self.shortcode is None or self.shortcode == "":
@@ -48,13 +48,14 @@ class shortener(models.Model):
     def __unicode__(self):
         return str(self.url)
 
+    def get_short_url(self):
+        url_path = reverse("scode", kwargs={'shortcode':self.shortcode}, host='www', scheme='http')
+        return url_path
 
 
 
-'''
-python manage.py makemigrations
-python manage.py migrate
 
 
-python manage.py createsuperuser
-'''
+
+
+    

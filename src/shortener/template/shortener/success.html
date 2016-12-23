@@ -1,3 +1,15 @@
-<p>{{ object.url }}</p>
+{% extends "base.html" %}
 
-<p>{{ object.shortcode }}</p>
+{% block title %}
+{{ objects.shortcode }} | {{block.super}}
+{% endblock title %}
+
+{% block content %}
+<div class>
+	<h1>Success!!!</h1>
+	<p>{{ objects.url }}</p>
+	{% if objects.clickevent %}<p>Count {{ objects.clickevent.count }}</p>{% endif %}
+	<p><a class="btn btn-link" href="{{ objects.get_short_url }}">{{ objects.get_short_url }}</a></p>
+	<a class="btn btn-default" href="/">+ New</a>
+</div>
+{% endblock content %}

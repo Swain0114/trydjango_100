@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+
 <h1 class="cover-heading">{{ title }}</h1>
 <p class="lead">Shorten that URL</p>
 <p class="lead">
@@ -7,8 +8,9 @@
 				<form method="POST" action="."> {% csrf_token %}
 					<!-- <input type="text" name="URL" placeholder="shorten your URL"> -->
 					{{ form.as_p }}
-					<input class="btn btn-primary" type="submit" value="Shorten">
+					<input class="btn btn-primary" type="submit" value="Shorten &raquo;">
 				</form>
 			</div>
 </p>
 {% endblock content %}
+
